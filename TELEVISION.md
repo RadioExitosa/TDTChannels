@@ -911,7 +911,7 @@
 | College Music | [youtube](https://www.youtube.com/channel/UCWzZ5TIGoZ6o-KtbGCyhnhg/live) | [web](https://collegemusic.co.uk) | [logo](https://graph.facebook.com/collegemusic/picture?width=200&height=200) | - | EMB |
 | LoFi Hip-Hop Beats Music | [youtube](https://www.youtube.com/channel/UCsIg9WMfxjZZvwROleiVsQg/live) | [web](https://stzzzy.com) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | EMB |
 | The Good Life Radio | [youtube](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA/live) | [web](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA) | [logo](https://yt3.ggpht.com/a/AATXAJw_0O4Q7vmQvtqUOGDFHS3GQZaH2OKMnc3_1itvxg=s200) | - | EMB |
-
+| Radio La Tremenda TV Perú | [m3u8](https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8) | [web](https://latremenda.pe/) | [logo](https://raw.githubusercontent.com/RadioExitosa/radiolatremenda/refs/heads/main/200%20x%20200.jpg) | - | - |
 ## Religiosos
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
