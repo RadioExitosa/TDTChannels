@@ -869,7 +869,8 @@
 | College Music | [youtube](https://www.youtube.com/@CollegeMusic/live) | [web](https://collegemusic.co.uk/) | [logo](https://graph.facebook.com/collegemusic/picture?width=200&height=200) | - | - |
 | LoFi Hip-Hop Beats Music | [youtube](https://www.youtube.com/@steezyasfvck/live) | [web](https://stzzzy.com) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | - |
 | The Good Life Radio | [youtube](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA/live) | [web](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA) | [logo](https://yt3.ggpht.com/a/AATXAJw_0O4Q7vmQvtqUOGDFHS3GQZaH2OKMnc3_1itvxg=s200) | - | - |
-| Radio La Tremenda TV Perú | [m3u8](https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8) | [web](https://latremenda.pe/) | [logo](https://latremenda.pe/logo_latremenda_961-128.webp) | - | - |
+| La Tremenda TV Perú | [m3u8](https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8) | [web](https://latremenda.pe/) | [logo](https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg
+) | - | - |
 
 ## Religiosos
 
